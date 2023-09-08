@@ -1,6 +1,5 @@
 ### CALSeg Improving Calibration of Medical Image Segmentation Via Variational Label Smoothing
 ------
-### Introduction 
 
 <div style="text-align: justify;"> 
 
