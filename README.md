@@ -19,8 +19,8 @@
 
 1. train
 
-```python main.py```                              # set '--phase' as train
+```python main.py --patch_size 12 --in_channels 3 --latent_size 8 --labels 2```                        # Setting Training Parameters
 
 2. test
 
-```python test.py```                        # set '--phase' as test
+```python test.py --patch_size 12 --in_channels 3 --latent_size 8 --labels 2```                        # Setting Testing Parameters
