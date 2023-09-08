@@ -12,7 +12,7 @@
 ### Framework
 ------
 
-<img src="https://github.com/Guoxt/RPRC/blob/master/image1.png" alt="Image Alt Text" style="width:1000px; height:auto;">
+<img src="https://github.com/Guoxt/CALSeg/blob/master/image.png" alt="Image Alt Text" style="width:1000px; height:auto;">
 
 ------
 ### Run MRNet Code
